@@ -1,0 +1,25 @@
+[Options]
+localefile=attcheckin.en
+Temp-Supervisor_RANGE_User=14
+Temp-Supervisor_RANGE_Dept=13
+Temp-Supervisor_RANGE_D1=2018-05-01 00:00:00
+Temp-Supervisor_RANGE_D2=2018-05-31 23:59:00
+MainFormLeft=0
+MainFormTop=0
+MainFormWidth=1280
+MainFormHeight=680
+LeftMenu=194
+RightInfo=589
+MachinesViewHeight=363
+ViewStyle=3
+DisplayStatus=1
+DisplayWorkCode=1
+SimpleCalc=0
+Displaynull=0
+
+[TfAttCalc]
+pnlRecOP_Width=166
+pnlAttAbnormite_Width=140
+pnlAudit_Width=166
+pnlCalc_Width=132
+
